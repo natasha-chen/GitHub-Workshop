@@ -39,7 +39,8 @@ Go to [https://desktop.github.com/download/](https://desktop.github.com/download
 9. Click the blue "Commit 1 file to YOUR_BRANCH_NAME" button. 
 
 <hr>
-WRITE SOMETHING HERE -> 
+WRITE SOMETHING HERE -> hello world. 
+
 <hr>
 
 ### 7. \*Push\* your changes from local to remote. 
